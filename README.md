@@ -12,3 +12,7 @@ A spring that solves your animation problems.
 #### React Motion Community
 * [Wrapper component around React Motion for easier UI transitions](https://github.com/souporserious/react-motion-ui-pack)
 * [Library of React animated components](https://github.com/Nitive/react-motion-pack)
+
+### License
+
+MIT
