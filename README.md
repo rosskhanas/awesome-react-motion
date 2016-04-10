@@ -13,6 +13,7 @@ A spring that solves your animation problems.
 #### React Motion Community
 * [Wrapper component around React Motion for easier UI transitions](https://github.com/souporserious/react-motion-ui-pack)
 * [Library of React animated components](https://github.com/Nitive/react-motion-pack)
+* [Smooth scrolling for the web on React](https://github.com/opensource-cards/react-scrolling)
 
 #### React Motion Tutorials
 * [A gentle introduction to React Motion](https://medium.com/@nashvail/a-gentle-introduction-to-react-motion-dc50dd9f2459#.4lnu7ym0j)
