@@ -6,10 +6,6 @@ A collection of awesome things regarding React Motion ecosystem.
   - [React Motion Libraries](#react-motion-community)
   - [React Motion Tutorials](#react-motion-tutorials)
 
-## React Motion
-
-A spring that solves your animation problems.
-
 ### React Motion Libraries
 * [react-motion-ui-pack](https://github.com/souporserious/react-motion-ui-pack) - Wrapper component around React Motion for easier UI transitions.
 * [react-motion-pack](https://github.com/Nitive/react-motion-pack) - Library of React animated components.
