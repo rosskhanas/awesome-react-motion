@@ -26,7 +26,7 @@ A collection of awesome things regarding React Motion ecosystem.
 
 ### Examples
 * [react-motion-example](https://github.com/bgryszko/react-motion-example) Using TransitionSpring.
-* [Kabuki-Motion](https://github.com/bishopZ/kabuki-motion) Boilerplate for Web Animators.
+* [kabuki-motion](https://github.com/bishopZ/kabuki-motion) Boilerplate for Web Animators.
 * [component-router](http://in-flux.github.io/component-router/example/) Component-router example with react-motion for route transitions.
 * [Server render app with react-motion](http://52.24.114.125:3000/) A simple server render app animated with react motion.
 
