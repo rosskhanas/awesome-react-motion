@@ -10,7 +10,7 @@ A collection of awesome things regarding React Motion ecosystem.
 ## Contents
 
 ### Libraries
-* [binary-ui-carousel](https://github.com/opensource-cards/binary-ui-carousel) - A carousel component for React and React Native.
+* [data-driven-motion](https://github.com/tkh44/data-driven-motion) - Small wrapper that attempts to simplify the api of TransitionMotion.
 * [react-collapse](https://github.com/nkbt/react-collapse) - Component-wrapper for collapse animation with react-motion for elements with variable (and dynamic) height.
 * [react-draggable-list](https://streakyc.github.io/react-draggable-list/example/) React component for a list of draggable collapsible items.
 * [react-motion-drawer](https://github.com/stoeffel/react-motion-drawer) Drawer menu component powered by React Motion.
